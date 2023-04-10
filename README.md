@@ -17,7 +17,9 @@
 
 
 # Introduccion
-En este documento se presentará la documentación detallada de un programa de una aplicación web, que ha sido diseñado para almacenar información de usuarios en una base de datos Postgres y Redis, realizar cálculos complejos en un worker y presentar los resultados en una página web mediante el uso de un cliente React. La aplicación ha sido empaquetada en Docker con seis servicios: nginx, postgres, api, redis, client-react y worker. La documentación incluirá una introducción a la aplicación y su funcionamiento, un marco teórico que explicará los componentes y tecnologías utilizadas, una prueba de funcionamiento detallada y una conclusión que destacará los resultados y posibles mejoras para el futuro. Este proyecto es una excelente oportunidad para comprender las distintas partes que conforman una página web profesional, y cómo se integran para brindar una experiencia de usuario satisfactoria.
+En el presente documento se expondra la  documentación de un programa de aplicación web que ha sido diseñado para almacenar información de usuarios en una base de datos Postgres y Redis, realizar cálculos complejos en un worker y presentar los resultados en una página web mediante el uso de un cliente React. La aplicación ha sido encapsulada en Docker con seis servicios que incluyen: nginx, postgres, api, redis, client-react y worker.
+
+La documentación abarcará una introducción a la aplicación y su funcionamiento, un marco teórico que explicará los componentes y tecnologías utilizadas, una prueba de funcionamiento detallada y una conclusión que destacará los resultados y posibles mejoras para el futuro.
 
 # Marco teorico
 
