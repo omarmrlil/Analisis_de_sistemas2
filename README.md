@@ -61,6 +61,10 @@ Mediante un sistema denominado MVCC (Acceso concurrente multiversión, por sus s
 # Redis.
 Redis es un motor de base de datos en memoria, basado en el almacenamiento en tablas de hashes pero que opcionalmente puede ser usada como una base de datos durable o persistente. Está escrito en ANSI C por Salvatore Sanfilippo, quien es patrocinado por Redis Labs.
 
+## Video (Prueba de funcionamiento)
+
+[Haga Clic aquí](https://miucateciedu-my.sharepoint.com/:v:/g/personal/20190126_miucateci_edu_do/EUcgvG1gN_xIvKpfi4IhppMB7XQqbU1zodnu2d5VCYKMWg?e=vFFXfe) 
+
 - Detalle de la app 
 ### */keys.js
 Estos archivos almacenan las credenciales necesarias para la conexion a las diferentes bases de datos.
