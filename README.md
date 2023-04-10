@@ -67,7 +67,7 @@ Estos archivos almacenan las credenciales necesarias para la conexion a las dife
 
 ### client/public/index.html
 
-Este es - En este proyecto se pueden ubicar los archivos mas importantes, entre estos estan:
+Este es  En este proyecto se pueden ubicar los archivos mas importantes.
 
 ### client/src/Fib.js
 Este archivo es el que se encarga de manejar el input, el envio de la información, la actualización de la informacion y el muestreo en pantalla.
@@ -85,14 +85,7 @@ Este archivo espera suscrito al canal insert y cuando envian la publicacion este
 ### docker-compose.yml
 Gracias el archivo donde se carga toda la informacion enviada por react, gracias al div que tiene el ID " root ", sin este no se mostraria nada de la aplicacion.
 
-## Posibles mejoras
-Tras analizar profundamente el codigo del proyecto, he localizado varios casos de mejora:
 
-* Comenzando con la actualización automática de la pantalla cuando envio la información a travéz del submit.
-* El diseño poco encantador 
-* La forma en la que se enseña la información.
-* Avisos al digitar algun numero mayor a 40
-* Control de errores cuando el usuario no digita un número.
 # Conclusión
 Para concluir, al realizar un análisis a fondo a este programa nos podemos dar cuenta que es muy importante e interesante el saber cómo este está estructurado y todas las herramientas o servicios se relacionan entre sí. Las partes de esta estructura que son de mucha importancia son server, nginx y worker porque son los servicios que dan los controles a la app aparte del diseño que es algo superficial pero el JS que hace los cálculos complejos de Fibonacci son lo más destacable a tener en cuenta para la realización de alguna aplicación como esta.
 
